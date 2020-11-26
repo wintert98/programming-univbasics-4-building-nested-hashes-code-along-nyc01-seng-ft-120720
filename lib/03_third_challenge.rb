@@ -22,7 +22,7 @@ def third_challenge
          :age => "17",
          :attitude =>  "worried"
         },
-        {:name =>
+        {:name => "Mercutio",
          :age =>
          :attitude =>
        }
